@@ -1,0 +1,40 @@
+header {
+    background-color: darkgray;
+    border: 5px lightblue;
+    padding: 15px;
+    margin: 20px;
+    height: 80px;
+    width: 100%;
+}
+h2 {
+    color: azure;
+    position: absolute;
+    left: 100px;
+    top: 0;
+    line-height: 110px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+header a {
+    text-decoration: none;
+    color: azure;
+    list-style-type: none;
+}
+header a:hover {
+    text-decoration: underline;
+}
+footer {
+    background-color: black;
+}
+h4 {
+    color: azure;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif; 
+    color: azure;
+}
+footer a {
+    color: azure;
+}
+body {
+    background-color: rgb(196, 144, 110);
+}
